@@ -1,0 +1,17 @@
+.box {
+    min-height: 60px;
+    background-color: #e25041;
+    margin-bottom: 5px;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+.box2{
+    min-height: 60px;
+    background-color: teal;
+    margin-bottom: 5px;
+
+}
